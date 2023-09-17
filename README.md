@@ -6,3 +6,5 @@ we are learning Github todayy
 hello this is me
 <br>
 Sneha - 230269
+<br>
+Naruto - Sasuke
